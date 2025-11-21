@@ -1,0 +1,14 @@
+
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.38
+langchain-groq
+langchain-huggingface
+langchain-experimental
+neo4j
+pinecone-client
+langchain-pinecone
+python-dotenv
+streamlit
+pyvis
+sentence-transformers
